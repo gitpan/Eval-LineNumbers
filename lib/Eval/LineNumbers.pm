@@ -8,7 +8,7 @@ our @ISA = qw(Exporter);
 our @EXPORT = qw();
 our @EXPORT_OK = qw(eval_line_numbers);
 
-our $VERSION = 0.3;
+our $VERSION = 0.31;
 
 sub eval_line_numbers
 {
@@ -26,7 +26,7 @@ __END__
 
 =head1 NAME
 
-Eval::LineNumbers - Misc functions 
+Eval::LineNumbers - Add line numbers to hereis blocks that contain perl source code
 
 =head1 SYNOPSIS
 
