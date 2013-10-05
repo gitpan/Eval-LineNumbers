@@ -31,7 +31,9 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "Exporter" : "5.57"
+         }
       }
    },
    "release_status" : "stable",
@@ -40,5 +42,5 @@
          "url" : "http://github.com/muir/Eval-LineNumbers"
       }
    },
-   "version" : "0.32"
+   "version" : "0.33"
 }
