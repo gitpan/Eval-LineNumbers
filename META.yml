@@ -21,4 +21,4 @@ requires:
   Exporter: 5.57
 resources:
   repository: http://github.com/muir/Eval-LineNumbers
-version: 0.33
+version: 0.34
